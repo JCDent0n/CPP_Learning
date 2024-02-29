@@ -29,7 +29,7 @@ int add(int x, int y)
 ```
 
 
-```
+```cpp
 #include <iostream>
 
 int add(int x, int y)
